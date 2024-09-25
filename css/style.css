@@ -1,0 +1,9 @@
+* {
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/dungeon.jpeg);
+    width: 90%;
+}
