@@ -4,8 +4,8 @@
 }
 
 body {
-    background-image: url(../img/dungeon.jpeg);
-    background-size: 100%;
+    background-image: url(../img/dungeonwall.jpeg);
+    background-repeat: inherit;
     
 }
 nav {
@@ -13,11 +13,10 @@ nav {
     padding: 10px;
     text-decoration: none;
 }
-p {
-    margin: 20%;
+img {
+    width: 50%;
 }
 footer {
     background-color: black;
     padding: 10px;
 }
-
